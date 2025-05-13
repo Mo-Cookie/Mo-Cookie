@@ -1,6 +1,4 @@
-# 🍪 Mo 🍪
-
-- 👋 Hi, I’m @Mo-Cookie - Mo 🍪
+# 👋 Hi, I’m Mo! 🍪
 - I am a Mechatronics Engineer with a strong background in electronic systems design, prototype development, and remote monitoring using IoT technologies. I am also passionate about computer vision, robotics, virtual reality, and computational optimization.
 - Seeking to contribute to innovative projects that combine engineering and technology to solve real-world problems.
 
@@ -37,3 +35,4 @@
 <!-- Actual text -->
 
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lamaorhe/).
+
