@@ -1,4 +1,4 @@
-# Mo
+# Mo 🍪
 
 - 👋 Hi, I’m @Mo-Cookie - Mo 🍪
 - I am a Mechatronics Engineer with a strong background in electronic systems design, prototype development, and remote monitoring using IoT technologies. I am also passionate about computer vision, robotics, virtual reality, and computational optimization.
